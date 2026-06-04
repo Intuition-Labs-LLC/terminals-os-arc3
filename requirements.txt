@@ -1,0 +1,4 @@
+# ARC-AGI-3 SDK (provides arc_agi + arcengine; ships the game environments + the scorecard API)
+arc-agi
+numpy
+python-dotenv
